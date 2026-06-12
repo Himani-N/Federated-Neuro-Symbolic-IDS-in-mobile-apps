@@ -1,0 +1,105 @@
+## 🚀 Installation & Execution
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/Himani-N/Federated-Neuro-Symbolic-IDS-in-mobile-apps.git
+```
+
+### Step 2: Navigate to Project Directory
+
+```bash
+cd Federated-Neuro-Symbolic-IDS-in-mobile-apps
+```
+
+### Step 3: Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### Step 4: Activate Virtual Environment
+
+#### Windows
+
+```bash
+venv\Scripts\activate
+```
+
+#### Linux / macOS
+
+```bash
+source venv/bin/activate
+```
+
+### Step 5: Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 6: Run the Project
+
+```bash
+python main.py
+```
+
+### Step 7: Launch Dashboard (if available)
+
+```bash
+streamlit run app.py
+```
+
+### Step 8: Open Browser
+
+```text
+http://localhost:8501
+```
+
+---
+
+## 🔄 Git Commands
+
+### Pull Latest Changes
+
+```bash
+git pull origin main
+```
+
+### Add Changes
+
+```bash
+git add .
+```
+
+### Commit Changes
+
+```bash
+git commit -m "Updated project"
+```
+
+### Push Changes
+
+```bash
+git push origin main
+```
+
+---
+
+## 📦 Complete Setup
+
+```bash
+git clone https://github.com/Himani-N/Federated-Neuro-Symbolic-IDS-in-mobile-apps.git
+
+cd Federated-Neuro-Symbolic-IDS-in-mobile-apps
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python main.py
+
+streamlit run app.py
+```
